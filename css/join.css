@@ -1,0 +1,90 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    background-color: #333333 !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: inline-block;
+    height: auto;
+    width: 100%;
+}
+
+.cntct button:hover {
+    background-color: #f88621;
+}
+
+.cntct button {
+    background-color: #134870;
+    color: white;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-style: none;
+    outline: none !important;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    width: 30% !important;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.cntct {
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    padding: 32px;
+}
+
+.inp {
+    width: 100%;
+    text-align: center;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-style: none;
+    outline: none;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.taluk {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.taluk option {
+    display: inline-block;
+    text-align: center;
+}
